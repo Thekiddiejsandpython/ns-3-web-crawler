@@ -7,7 +7,6 @@ import re
 import bs4
 import urllib.request as urllib
 import requests
-import time
 
 nsdeveloper_links = []
 # site_links = [] <- Extra functionality
